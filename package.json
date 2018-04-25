@@ -1,0 +1,14 @@
+{
+  "name": "nodeApp",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:RyoMcCrain/nodeApp.git",
+  "author": "RyoMcCrain <amber.amber0813@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-boost": "^0.1.4",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.1",
+    "react-apollo": "^2.1.3"
+  }
+}
